@@ -1,6 +1,6 @@
 # Udemig-Academy
 
-Udemiğ-Academy is a modern educational platform developed using Bootstrap.
+Udemig-Academy is a modern educational platform developed using Bootstrap.
 
 # Features
 1. Fully Responsive Design
